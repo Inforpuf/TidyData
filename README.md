@@ -12,4 +12,4 @@ Fourth a new column is attached to selectedData, it has the names of the activit
 Fifth labels the data set with descriptive variable names that also will make it possible to been used in functions like summarize().
 Sixth create an independent, tidy data set with the average of each variable for each activity and each subject.
 And finally write the data set to a archive called solution.txt. The data is saved with sep="\t". 
-######In order to read the file the comand read.table("result.txt", sep="\t")
+######In order to read the file use the comand: read.table("result.txt", sep="\t")
