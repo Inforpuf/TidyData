@@ -1,4 +1,4 @@
-test_data: data frame that contains the data from the archive testX.txt .That data are the values used for testing
+####test_data: data frame that contains the data from the archive testX.txt .That data are the values used for testing
 train_data: data frame that contains the data from the archive trainX.txt .That data are the values used for training
 features_data: data frame that contains the data from the archive trainX.txt .That data are the names of the columns of the previous data
 
